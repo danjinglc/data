@@ -15,3 +15,5 @@ while var > 0:
       continue
    print ('当前变量值 :', var)
 print ("Good bye!")
+
+print('this is my first ceshi.py')
