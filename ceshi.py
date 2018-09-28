@@ -14,4 +14,4 @@ while var > 0:
    if var == 5:
       continue
    print ('当前变量值 :', var)
-print "Good bye!"
+print ("Good bye!")
